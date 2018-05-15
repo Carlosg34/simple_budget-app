@@ -64,16 +64,18 @@ body {
 }
 
 .budget-title {
-    width: 500px;
+    width: 600px;
     font-size: 40px;
-    text-align: center;
+    text-align: center !important;
     margin-bottom: 10px;
     font-weight: 300;
     display: inline-flex;
+    color: #fff;
 }
 
 h3{
     font-size: 35px;
+    margin: auto;
 }
 
 .budget__title--month{
@@ -93,7 +95,7 @@ h3{
 
 .budget__income,
 .budget__expenses {
-    border-radius: 3px;
+    border-radius: 30px;
     padding: 12px;
     text-transform: uppercase;
 }
