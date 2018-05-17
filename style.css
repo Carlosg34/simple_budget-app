@@ -41,7 +41,7 @@ body {
 **********************************************/
 
 .container-fluid {
-    width: 80%;
+    width: 90%;
     height: 100%;
     background-color: rgb(193, 190, 153);
     /* background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(back.png);
